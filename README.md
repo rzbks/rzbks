@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rzbks
 - 👀 I’m interested in software
-- 🌱 I’m currently learning basic software
+- 🌱 I’m currently learning basic software with patika.dev and kodluyoruz 
 - 💞️ I’m looking to collaborate on data analysis
 - 📫 How to reach me buyukkoseraziye@gmail.com
 
